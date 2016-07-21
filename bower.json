@@ -1,0 +1,22 @@
+{
+  "name": "file_structure",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Brittney Kistner <bkistner01@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/brittkistner/coding_dojo",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.7",
+    "angular-route": "^1.5.7"
+  }
+}
